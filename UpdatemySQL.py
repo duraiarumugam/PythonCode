@@ -1,5 +1,5 @@
 #update employee table
-#GIT path PythonCode/master/
+#GIT path PythonCode/master/UpdatemySQL
 
 import pymysql
 import mysql.connector
